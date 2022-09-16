@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "angular-epic-spinners": "^2.0.0",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "infinite-scroll": "^3.0.6",
     "ngx-bootstrap": "^5.1.2",
     "ngx-cookie-service": "^2.3.0",
